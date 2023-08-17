@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Vivek Kumar</h1>
+<h1 align="center">Hi, I'm Vivek Kumar</h1>
 <h3 align="center">A passionate Software developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeal2end&label=Profile%20views&color=0e75b6&style=flat" alt="zeal2end" /> </p>
-
-- 🌱 I’m currently learning **Java, Spring Boot, C++, Python, React.js, rust**
+- 🌱 I’m currently Building **Something**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://moonlit-cassata-b6a443.netlify.app/)
 
-- 💬 Ask me about **C++, Linux, PopOs, Arch, I3, vim, Shell Scripting, Cosmos**
+- 💬 Ask me about **C++, Linux, PopOs, Arch, I3, vim, Shell Scripting, Cosmos, Java, Spring Boot, C++, Python, React.js, rust**
 
 - 📫 How to reach me **vyvivekkumar@gmail.com**
 
 - ⚡ Fun fact **Science Fiction and Anime :p**
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeal2end&label=Profile%20views&color=0e75b6&style=flat" alt="zeal2end" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
