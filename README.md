@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeal2end&label=Profile%20views&color=0e75b6&style=flat" alt="zeal2end" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zeal2end" alt="zeal2end" /></a> </p>
-
 - 🌱 I’m currently learning **Java, Spring Boot, C++, Python, React.js, rust**
 
-- 👨‍💻 All of my projects are available at [https://moonlit-cassata-b6a443.netlify.app/](https://moonlit-cassata-b6a443.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://moonlit-cassata-b6a443.netlify.app/)
 
 - 💬 Ask me about **C++, Linux, PopOs, Arch, I3, vim, Shell Scripting, Cosmos**
 
