@@ -7,7 +7,7 @@
 <p> <img src="https://komarev.com/ghpvc/?username=zeal2end&label=Profile%20views&color=0e75b6&style=flat" alt="zeal2end" /> </p>
 
 <h1>Hello, World! 👋</h1>
-<h3>I'm <a href="https://github.com/zeal2end">**Vivek**</a>, Welcome to my GitHub profile.</h3>
+<h3>I'm <a href="https://github.com/zeal2end"><em>Vivek</em></a>, Welcome to my GitHub profile.</h3>
 
 <br>
 
