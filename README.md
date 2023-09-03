@@ -15,7 +15,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creater!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!;)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-nduongthucanh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:drost@duck.com)](mailto:drost@duck.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/zeal2end/)](https://www.linkedin.com/in/zeal2end/)
