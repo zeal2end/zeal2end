@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="assests/ducky.gif" width="150">
+<img src="assests/dancing-duck-danse.gif" width="150">
 
 <br>
 
