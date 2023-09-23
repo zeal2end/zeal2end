@@ -10,7 +10,7 @@
 
 ### I'm *[Vivek](https://github.com/zeal2end)*, Welcome to my GitHub profile. :octocat:
 
-<img src="https://github.com/zeal2end/zeal2end/blob/main/assests/dancing-duck-danse.gif" alt="dancing duck" width="200px">
+<img src="./assests/dancing-duck-danse.gif" alt="dancing duck" width="200px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer%2C+;an+Open-source+Contributor;+and+a+Explorer!;)](https://git.io/typing-svg)
 
