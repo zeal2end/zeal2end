@@ -4,18 +4,15 @@
 
 <br>
 
-<p> <img src="https://komarev.com/ghpvc/?username=zeal2end&label=Profile%20views&color=0e75b6&style=flat" alt="zeal2end" /> </p>
+![Visitors](https://komarev.com/ghpvc/?username=zeal2end&label=Visitors&color=eb7a09&style=skeuomorphism) 
 
-<h1>Hello, World! 👋</h1>
-<h3>I'm <a href="https://github.com/zeal2end"><em>Vivek</em></a>, Welcome to my GitHub profile.</h3>
+# Hello, World! 👋
 
-<br>
+### I'm *[Vivek](https://github.com/zeal2end)*, Welcome to my GitHub profile. :octocat:
 
-<img src="assests/panic.png" width="150" alt="credit: @ndleah ">
+![zeal2end](./assests/dancing-duck.danse.gif)
 
-<br>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer%2C+;an+Open-source+Contributor;+and+a+Content+Creator!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer%2C+;an+Open-source+Contributor;+and+a+Explorer!;)](https://git.io/typing-svg)
 
 [![Gmail Badge](https://img.shields.io/badge/-nduongthucanh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:drost@duck.com)](mailto:drost@duck.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/zeal2end/)](https://www.linkedin.com/in/zeal2end/)
@@ -23,15 +20,15 @@
 
 </div>
 
-**Fun Fact:**
-
-- 🌱 Bachelor at Computer Science and Information Technology graduated from KIET Groups of Institutions, Ghaziabad, armed with supercharged Programming Skills.
-
-- 👨‍💻 wizard in playing with vim and linux.
-
-- 💬 Ask me about **C++, Linux, PopOs, Arch, I3, vim, Shell Scripting, Cosmos, Java, Spring Boot, C++, Python, React.js, rust**
-
-- ⚡ Madly in love with programming. Lets build something new.
+> **Fun Fact:**
+>
+> - 🌱 Bachelor at Computer Science and Information Technology graduated from KIET Groups of Institutions, Ghaziabad, armed with supercharged Programming Skills.
+>
+> - 👨‍💻 wizard in playing with vim and linux.
+>
+> - 💬 Ask me about **C++, Linux, PopOs, Arch, I3, vim, Shell Scripting, Cosmos, Java, Spring Boot, C++, Python, React.js, rust**
+>
+> - ⚡ Madly in love with programming. Lets build something new.
 
 <br>
 
