@@ -10,7 +10,7 @@
 
 ### I'm *[Vivek](https://github.com/zeal2end)*, Welcome to my GitHub profile. :octocat:
 
-![zeal2end](./assests/dancing-duck.danse.gif)
+<img src="https://github.com/zeal2end/zeal2end/blob/main/assests/dancing-duck-danse.gif" alt="dancing duck" width="200px">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer%2C+;an+Open-source+Contributor;+and+a+Explorer!;)](https://git.io/typing-svg)
 
@@ -20,15 +20,15 @@
 
 </div>
 
-> **Fun Fact:**
->
-> - 🌱 Bachelor at Computer Science and Information Technology graduated from KIET Groups of Institutions, Ghaziabad, armed with supercharged Programming Skills.
->
-> - 👨‍💻 wizard in playing with vim and linux.
->
-> - 💬 Ask me about **C++, Linux, PopOs, Arch, I3, vim, Shell Scripting, Cosmos, Java, Spring Boot, C++, Python, React.js, rust**
->
-> - ⚡ Madly in love with programming. Lets build something new.
+ **Fun Fact:**
+
+ - 📚 Bachelor at Computer Science and Information Technology graduated from KIET Groups of Institutions, Ghaziabad, armed with supercharged Programming Skills.
+
+ - 🪄 wizard in playing with vim and linux.
+
+ - 💬 Ask me about **C++, Linux, PopOs, Arch, I3, vim, Shell Scripting, Cosmos, Java, Spring Boot, C++, Python, React.js, rust**
+
+ - ⚡ Madly in love with programming. Lets build something new.
 
 <br>
 
