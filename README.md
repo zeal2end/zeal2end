@@ -11,7 +11,7 @@
 
 <br>
 
-<img src="assests/dancing-duck-danse.gif" width="150">
+<img src="assests/panic.png" width="150" alt="credit: @ndleah ">
 
 <br>
 
