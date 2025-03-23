@@ -14,7 +14,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=600&size=21&duration=2000&color=000000&background=FFFFFF&center=true&vCenter=true&width=435&lines=I'm+a+Software+Engineer%2C+;an+Open-source+Contributor;+and+an+Explorer!;)](https://git.io/typing-svg)
 
-[![Gmail Badge](https://img.shields.io/badge/-nduongthucanh-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:drost@duck.com)](mailto:drost@duck.com)
+[![Gmail Badge](https://img.shields.io/badge/-Mail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:drost@duck.com)](mailto:drost@duck.com)
 [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/zeal2end/)](https://www.linkedin.com/in/zeal2end/)
 [![Medium Badge](http://img.shields.io/badge/-Medium-1ca0f1?style=social&logo=Medium&logoColor=black&link=https://medium.com/@whocrux)](https://medium.com/@whocrux)
 
